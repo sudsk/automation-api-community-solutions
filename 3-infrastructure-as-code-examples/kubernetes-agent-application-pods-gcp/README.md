@@ -1,0 +1,1 @@
+This is a simplified, multi-tenant GCP (Google Kubernetes Engine) version of [kubernetes-agent-application-pods](https://github.com/controlm/automation-api-community-solutions/tree/master/3-infrastructure-as-code-examples/kubernetes-agent-application-pods).
